@@ -1,0 +1,31 @@
+#listamenu > li {position:relative; left:270px; top:150px; display: inline-block; height: 35px; padding: 15px 10px 0px 10px; margin-right: 0px;}
+#listamenu li > ul {display: none; position: absolute; top: 50px; left: 0px;  ; border-radius: 5px 5px 5px 5px; list-style: none; z-index: 1000;}
+#listamenu li > ul > li {width: 600px; height: 35px; padding-top: 15px; padding-left: 10px;}
+#listamenu li:hover ul {display: block;}
+#listamenu a {font: bold 20px Arial, sans-serif; color: #000000; text-decoration: none;margin: 10px; padding: 10px; border: 2px ;border-width:20px;
+ border-radius: 20px; background: #BFC9CA;}
+#menuprincipal li:hover {background-color: }
+body {font-family:arial; background;}
+
+h1 {text-align:center; margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #BFC9CA; 
+font-size:35px;margin-left:200px;margin-right:200px; position: absolute; top: 20px; left: 225px;}
+h4 {text-align:center; margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #BFC9CA;
+ font-size:18px;margin-left:200px;margin-right:200px; position: absolute; top: 100px; left: 260px;}
+#joaquin {padding: 0px; margin: 0px; border: 2px solid black; background-color:#B197C6; border-radius: 10px; float: right; 
+width: 250px; height: 300px; top:200mm; position:absolute;left:50px; top:250px;}
+#logo {padding: 0px; margin: 0px; border: 2px solid black; background-color:#B197C6; border-radius: 10px; float: right; 
+width: 150px; height: 150px; top:200mm; position:absolute;left:50px; top:30px;}
+#logohtml{padding: 0px; margin: 0px; border:; background-color:; border-radius: 10px; float: right; 
+width: 150px; height: 150px; top:200mm; position:absolute;left:50px; top:600px;}
+#logocss{ background-color:; border-radius: ; float: right; 
+width: 110px; height: 150px; top:200mm; position:absolute;left:70px; top:770px;}
+#comentario{position:absolute; left:350px; top:230px; right:20px;}
+#comentario p{font-size:25px; text-align: justify; color: #FFFFFF;}
+#pie{margin: 10px; padding: 10px; border: 2px ;border-bottom-width:30px;border-top-width:5px; border-radius: 20px;
+ background: #BFC9CA; position:absolute; top: 950px; }
+#pie p {font-family:Arial; text-decoration:none;}
+#pie a {text-decoration:none; color: #000000;}
+facebook{position:absolute;top:0px;left:150px;}
+comentario{overflow: auto; padding-bottom:60px; padding-top:30px;}
+ 
+pie{padding:5px 0px;clear: both;height: 40px;position:relative;margin-top:-50px;top: 950px;background: #BFC9CA;}
